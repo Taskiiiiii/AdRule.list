@@ -1,5 +1,4 @@
 # Update > 2022.1.26
-#111
 DOMAIN-SUFFIX,dns.weibo.cn,REJECT
 DOMAIN-SUFFIX,h5.sinaimg.cn,REJECT
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,REJECT
